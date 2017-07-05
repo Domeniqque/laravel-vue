@@ -1,0 +1,2 @@
+require('./TaskTest')
+require('./ExampleTest')
